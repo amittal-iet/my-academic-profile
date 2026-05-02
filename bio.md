@@ -1,6 +1,6 @@
 # My Academic Profile
 
-## Name
+##  full Name
 Amit Kumar Mittal
 
 ## Department
